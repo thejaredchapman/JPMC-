@@ -1,5 +1,6 @@
-# JPMC-
-Forage Tasks JPMC 1
+# JPMC_Task_1
+
+## Forage Tasks JPMC 1
 
 
 Fixed problem based on Forage's JP Morgan Chase Virtual Internship Program
